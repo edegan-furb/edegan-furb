@@ -1,14 +1,15 @@
-
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <p align="center"><img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/eduardo-rebelo-degan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=edegan-furb&style=flat-square&color=blue" alt=""></p>
 
+---
 
-### 👨‍💻: &nbsp;About Me :
+### 👨‍💻 &nbsp;About Me :
 
-I am Developer<img src="https://media.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif" width="30"> from Brazil.
+I am Developer from Brazil.
 
 - 📚 I'm studying React Native and dedicating myself to creating frontend and backend to build web applications.
 - ⚡ In my free time, I enroll in web application courses to further enhance my skills.
