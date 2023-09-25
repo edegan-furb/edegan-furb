@@ -7,6 +7,13 @@
 
 ---
 
+I am Developer <img src="https://media.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif" width="30"> from Brazil.
+
+- 👨‍🎓 I'm studying React Native and dedicating myself to creating frontend and backend to build web applications.
+- ⚡ In my free time, I enroll in web application courses to further enhance my skills.
+
+---
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -30,7 +37,6 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
--|-
 
   <!-- GitHub Streak Stats -->
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edegan-furb&theme=dark&background=000000)](https://git.io/streak-stats)
