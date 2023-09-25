@@ -7,9 +7,9 @@
 
 ---
 
-I am Developer <img src="https://media.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif" width="30"> from Brazil.
+I am Developer<img src="https://media.giphy.com/media/5xtDaryREtat7r2obvi/giphy.gif" width="30"> from Brazil.
 
-- 👨‍🎓 I'm studying React Native and dedicating myself to creating frontend and backend to build web applications.
+- 📚 I'm studying React Native and dedicating myself to creating frontend and backend to build web applications.
 - ⚡ In my free time, I enroll in web application courses to further enhance my skills.
 
 ---
