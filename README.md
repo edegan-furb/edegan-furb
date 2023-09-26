@@ -22,7 +22,7 @@ I am Developer from Brazil.
 
 ### Languages and Tools :
 
-<table>
+<table aligh="center">
   <tr>
     <td align="center" width="96">
       <a>
