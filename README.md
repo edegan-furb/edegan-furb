@@ -22,7 +22,7 @@ I am Developer from Brazil.
 
 ### Languages and Tools :
 
-<table aligh="center">
+<table>
   <tr>
     <td align="center" width="96">
       <a>
@@ -60,6 +60,61 @@ I am Developer from Brazil.
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
+    </td>
+  <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+     <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+  </td>
+     <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
+   <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
+      </a>
+      <br>Typescript
+    </td>
+  <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="48" height="48" alt="firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="mysql" />
+      </a>
+      <br>Mysql
+    </td>
+  <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="48" height="48" alt="mongodb" />
+      </a>
+      <br>Mongodb
+    </td>
+  <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="getpostman" />
+      </a>
+      <br>Postman
+    </td>
+  <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
+      </a>
+      <br>Git
     </td>
   </tr>
 </table>
