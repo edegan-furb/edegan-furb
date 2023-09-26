@@ -11,8 +11,9 @@
 
 I am Developer from Brazil.
 
-- 📚 I'm studying React Native and dedicating myself to creating frontend and backend to build web applications.
-- ⚡ In my free time, I enroll in web application courses to further enhance my skills.
+- I'm a developer who enjoys building web applications. Currently, I'm focusing on React Native for mobile app development, and I'm comfortable working on both frontend and backend.
+
+- In my free time, I take online courses on the latest technologies to improve my skills.
 
 ---
 
