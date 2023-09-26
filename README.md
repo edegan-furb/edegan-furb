@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:FF69B48&height=100&width=100%&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:ffc0cb&height=100&width=100%&section=header" />
 <p align="center"><img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/eduardo-rebelo-degan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
