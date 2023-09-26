@@ -42,6 +42,6 @@ I am Developer from Brazil.
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edegan-furb&theme=radical&background=000000)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=100&width=100%&section=footer" />
