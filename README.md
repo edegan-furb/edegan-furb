@@ -22,8 +22,8 @@ I am Developer from Brazil.
 
 ### Languages and Tools :
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
@@ -68,7 +68,7 @@ I am Developer from Brazil.
       <br>CSS
     </td>
   </tr>
-  <tr>
+  <tr align="center">
      <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
