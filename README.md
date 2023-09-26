@@ -26,19 +26,19 @@ I am Developer from Brazil.
   <tr align="center">
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
      <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
@@ -63,7 +63,7 @@ I am Developer from Brazil.
     </td>
   <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="48" height="48" alt="CSS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
@@ -90,19 +90,19 @@ I am Developer from Brazil.
     </td>
   <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="48" height="48" alt="firebase" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase" />
       </a>
       <br>Firebase
     </td>
   <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="mysql" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       </a>
       <br>Mysql
     </td>
   <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="48" height="48" alt="mongodb" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="48" height="48" alt="mongodb" />
       </a>
       <br>Mongodb
     </td>
