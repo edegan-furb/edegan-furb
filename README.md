@@ -90,7 +90,7 @@ I am Developer from Brazil.
     </td>
   <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="48" height="48" alt="firebase" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase" />
       </a>
       <br>Firebase
     </td>
