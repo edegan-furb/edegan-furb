@@ -41,7 +41,7 @@ I am Developer from Brazil.
 ### My Stats :
 <div style="display: flex; flex-direction: row;">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edegan-furb&theme=dark&background=000000)](https://git.io/streak-stats)
+<img class="img" src="[https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical](http://github-readme-streak-stats.herokuapp.com?user=edegan-furb&theme=dark&background=000000)](https://git.io/streak-stats)" />
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
