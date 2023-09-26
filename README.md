@@ -22,6 +22,17 @@ I am Developer from Brazil.
 
 ### Languages and Tools :
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+  </tr>
+</table>
+
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="45" height="45"/>&nbsp;
