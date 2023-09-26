@@ -67,6 +67,8 @@ I am Developer from Brazil.
       </a>
       <br>CSS
     </td>
+  </tr>
+  <tr>
      <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
@@ -103,12 +105,6 @@ I am Developer from Brazil.
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="48" height="48" alt="mongodb" />
       </a>
       <br>Mongodb
-    </td>
-  <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="getpostman" />
-      </a>
-      <br>Postman
     </td>
   <td align="center" width="96">
       <a>
