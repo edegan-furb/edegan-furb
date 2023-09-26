@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:c0fc0b&height=100&width=100%&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:ff0066&height=100&width=100%&section=header" />
 <p align="center"><img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/eduardo-rebelo-degan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -43,4 +43,4 @@ I am Developer from Brazil.
 
   &nbsp;  &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=edegan-furb&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)  &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4:FFFF00&height=100&width=100%&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffff00:ff0066 &height=100&width=100%&section=footer" />
