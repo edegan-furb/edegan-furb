@@ -11,6 +11,9 @@
   <a href="https://www.instagram.com/edugao/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta Badge">
   </a>
+   <a href="https://twitter.com/EduDegan">
+    <img src="https://img.shields.io/badge/Twitter-Black?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
+  </a>
 </p>
 
 <p align="center">
