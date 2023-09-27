@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
 </a>
 
-I am Developer from Brazil 🇧🇷.
+I am Developer from Brazil.
 
 - ⚡ I'm a developer who enjoys building web applications.
 - ⚡ Currently, I'm focusing on React Native for mobile app development.
