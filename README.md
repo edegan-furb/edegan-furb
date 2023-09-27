@@ -33,6 +33,7 @@ I am Developer from Brazil.
 ---
 
 <h2 align="left">Tech:</h2>
+
 > Tools, languages, and other things that I work with.
 
 <table align="center">
