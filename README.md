@@ -5,13 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=blue" alt="">
-  <img src="https://img.shields.io/badge/Age-23-blue" />
-  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-blue" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-blue" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/eduardo-rebelo-degan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
@@ -30,6 +23,13 @@
 </p>
 
 <h2 align="left">About me:</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=blue" alt="">
+  <img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-blue" />
+</p>
 
 <a align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
