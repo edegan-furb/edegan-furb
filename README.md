@@ -22,12 +22,15 @@
 
 <h2 align="left">About me:</h2>
 
+<a>
+  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?edegan-furb=anuraghazra&hide_progress=true)" alt="macropower" align="right" />
+</a>
+
 I am Developer from Brazil 🇧🇷.
 
 - ⚡ I'm a developer who enjoys building web applications.
 - ⚡ Currently, I'm focusing on React Native for mobile app development.
 - ⚡ I'm comfortable working on both frontend and backend.
-- ⚡ In my free time, I like to take online courses on the latest technologies to improve my skills.
 
 
 <h2 align="left">Tech:</h2>
