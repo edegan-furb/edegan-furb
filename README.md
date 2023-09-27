@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Lives-Blumenau-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-brightgreen" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/eduardo-rebelo-degan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
