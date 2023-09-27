@@ -1,5 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
 
+<a align="right">
+<h2 align="left">About me:</h2>
+
+I am Developer from Brazil 🇧🇷.
+
+- ⚡ I'm a developer who enjoys building web applications.
+- ⚡ Currently, I'm focusing on React Native for mobile app development, and I'm comfortable working on both frontend and backend.
+- ⚡ In my free time, I like to take online courses on the latest technologies to improve my skills.
+</a>
+
 <p align="center">
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
 </p>
@@ -18,16 +28,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=flat-square&color=blue" alt="">
-</p>
-
-<p align="left">
-<h2 align="left">About me:</h2>
-
-I am Developer from Brazil 🇧🇷.
-
-- ⚡ I'm a developer who enjoys building web applications.
-- ⚡ Currently, I'm focusing on React Native for mobile app development, and I'm comfortable working on both frontend and backend.
-- ⚡ In my free time, I like to take online courses on the latest technologies to improve my skills.
 </p>
 
 ---
