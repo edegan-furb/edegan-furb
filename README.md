@@ -1,22 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/eduardo-rebelo-degan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.buymeacoffee.com/edegan" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=flat-square&color=blue" alt="">
 </p>
 
