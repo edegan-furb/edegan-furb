@@ -1,16 +1,28 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
-<p align="center"><img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/></p>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/eduardo-rebelo-degan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
 </p>
+
 <p align="center">
-<a href="https://www.buymeacoffee.com/edegan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  <a href="https://www.linkedin.com/in/eduardo-rebelo-degan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=edegan-furb&style=flat-square&color=blue" alt=""></p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/edegan" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=flat-square&color=blue" alt="">
+</p>
 
 ---
 
-### About Me :
+### About Me:
 
 I am Developer from Brazil.
 
@@ -20,7 +32,7 @@ I am Developer from Brazil.
 
 ---
 
-### Languages and Tools :
+### Languages and Tools:
 
 <table align="center">
   <tr align="center">
@@ -115,11 +127,16 @@ I am Developer from Brazil.
   </tr>
 </table>
 
-
 ---
 
-### My Stats :
+### My Stats:
 
-  &nbsp;  &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?username=edegan-furb&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)  &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?username=edegan-furb&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" />
+</p>
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
