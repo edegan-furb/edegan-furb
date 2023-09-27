@@ -24,7 +24,7 @@
 
 <h2 align="left">About me:</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=blue" alt="">
   <img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-blue" />
