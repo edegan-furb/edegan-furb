@@ -1,34 +1,35 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
+<div>
+  <div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
-</p>
+    <p>
+      <a href="https://www.linkedin.com/in/eduardo-rebelo-degan">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      </a>
+    </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-rebelo-degan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</p>
+    <p>
+      <a href="https://www.buymeacoffee.com/edegan" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+      </a>
+    </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/edegan" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-  </a>
-</p>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=flat-square&color=blue" alt="">
+    </p>
+  </div>
+  
+  <div>
+    <h2>About Me:</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=flat-square&color=blue" alt="">
-</p>
+    <p>I am Developer from Brazil.</p>
 
----
-
-### About Me:
-
-I am Developer from Brazil.
-
-- ⚡ I'm a developer who enjoys building web applications. Currently, I'm focusing on React Native for mobile app development, and I'm comfortable working on both frontend and backend.
-
-- 📚 In my free time, I like to take online courses on the latest technologies to improve my skills.
+    <ul>
+      <li>⚡ I'm a developer who enjoys building web applications. Currently, I'm focusing on React Native for mobile app development, and I'm comfortable working on both frontend and backend.</li>
+      <li>📚 In my free time, I like to take online courses on the latest technologies to improve my skills.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
