@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=blue" alt="">
   <img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Lives-Blumenau-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-blue" />
@@ -26,10 +27,6 @@
   <a href="https://www.buymeacoffee.com/edegan" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=flat-square&color=blue" alt="">
 </p>
 
 <h2 align="left">About me:</h2>
