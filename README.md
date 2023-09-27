@@ -20,8 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=flat-square&color=blue" alt="">
 </p>
 
----
-
+<p align="left">
 <h2 align="left">About me:</h2>
 
 I am Developer from Brazil 🇧🇷.
@@ -29,9 +28,10 @@ I am Developer from Brazil 🇧🇷.
 - ⚡ I'm a developer who enjoys building web applications.
 - ⚡ Currently, I'm focusing on React Native for mobile app development, and I'm comfortable working on both frontend and backend.
 - ⚡ In my free time, I like to take online courses on the latest technologies to improve my skills.
-
+</p>
 
 ---
+
 
 <h2 align="left">Tech:</h2>
 
