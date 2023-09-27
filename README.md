@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta Badge">
   </a>
    <a href="https://twitter.com/EduDegan">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
   </a>
 </p>
 
