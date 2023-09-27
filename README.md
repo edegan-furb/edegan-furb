@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=red" alt="">
   <img src="https://img.shields.io/badge/Age-23-red" />
   <img src="https://img.shields.io/badge/Lives-Blumenau-red" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-red-bright" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-red_bright" />
 </p>
 
 <p align="center">
