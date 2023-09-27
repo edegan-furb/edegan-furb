@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=blue" alt="">
-  <img src="https://img.shields.io/badge/Age-23-blue" />
-  <img src="https://img.shields.io/badge/Lives-Blumenau-blue" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-blue" />
+   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=orange" alt="">
+  <img src="https://img.shields.io/badge/Age-23-orange" />
+  <img src="https://img.shields.io/badge/Lives-Blumenau-orange" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-orange" />
 </p>
 
 <p align="center">
