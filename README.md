@@ -22,6 +22,10 @@
 
 ---
 
+<a align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" />
+</a>
+
 <h2 align="left">About me:</h2>
 
 I am Developer from Brazil 🇧🇷.
