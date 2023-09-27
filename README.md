@@ -37,10 +37,10 @@
 
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
 
-- :man_technologist I'm a developer who enjoys building web applications.
-- :dart Currently, I'm focusing on React Native for mobile app development.
-- :pushpin I'm comfortable working on both frontend and backend.
-- :books I like to take online courses on the latest technologies to improve my skills.
+- 👨‍💻 I'm a developer who enjoys building web applications.
+- 🎯 Currently, I'm focusing on React Native for mobile app development.
+- 📌 I'm comfortable working on both frontend and backend.
+- 📚 I like to take online courses on the latest technologies to improve my skills.
 
 
 <h2 align="left">Tech:</h2>
