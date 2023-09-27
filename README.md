@@ -30,9 +30,11 @@
 
 I am Developer from Brazil 🇧🇷.
 
+<a align="left">
 - ⚡ I'm a developer who enjoys building web applications. Currently, I'm focusing on React Native for mobile app development, and I'm comfortable working on both frontend and backend.
 
 - 📚 In my free time, I like to take online courses on the latest technologies to improve my skills.
+</a>
 
 ---
 
