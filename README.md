@@ -132,17 +132,5 @@ I am Developer from Brazil 🇧🇷.
     </td>
   </tr>
 </table>
-
----
-
-### My Stats:
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?username=edegan-furb&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" />
-</p>
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
