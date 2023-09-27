@@ -23,7 +23,7 @@
 <h2 align="left">About me:</h2>
 
 <a align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
 </a>
 
 I am Developer from Brazil 🇧🇷.
