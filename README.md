@@ -22,17 +22,15 @@
 
 ---
 
-<a align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" align="right" />
-</a>
+<!-- Left side: About me -->
+| | |
+|---|---|
+| <h2>About me:</h2> | I am a Developer from Brazil 🇧🇷. - ⚡ I'm a developer who enjoys building web applications. - ⚡ Currently, I'm focusing on React Native for mobile app development, and I'm comfortable working on both frontend and backend. - ⚡ In my free time, I like to take online courses on the latest technologies to improve my skills. |
 
-<h2 align="left">About me:</h2>
-
-I am Developer from Brazil 🇧🇷.
-
-- ⚡ I'm a developer who enjoys building web applications.
-- ⚡ Currently, I'm focusing on React Native for mobile app development, and I'm comfortable working on both frontend and backend.
-- ⚡ In my free time, I like to take online courses on the latest technologies to improve my skills.
+<!-- Right side: GitHub stats -->
+| | |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark) | |
 
 ---
 
