@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-23-blue" />
-  <img src="https://img.shields.io/badge/Lives-Blumenau-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Blumenau-blue" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-blue" />
 </p>
 
 <p align="center">
