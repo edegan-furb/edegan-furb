@@ -22,8 +22,8 @@
 
 <h2 align="left">About me:</h2>
 
-<a>
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?edegan-furb=anuraghazra&hide_progress=true)" alt="macropower" align="right" />
+<a align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" align="right" />
 </a>
 
 I am Developer from Brazil 🇧🇷.
