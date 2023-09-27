@@ -23,7 +23,7 @@
 ---
 
 <a align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" align="right" />
 </a>
 
 <h2 align="left">About me:</h2>
