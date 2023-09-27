@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
 
-<a >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" align="right"/>
-</a>
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?edegan-furb=anuraghazra&show_icons=true&theme=radical" align="right"/>
-</a>
-
 <p align="center">
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
 </p>
