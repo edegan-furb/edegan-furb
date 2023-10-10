@@ -76,9 +76,9 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
       </a>
-      <br>Redux
+      <br>Spring
     </td>
      <td align="center" width="96">
       <a>
