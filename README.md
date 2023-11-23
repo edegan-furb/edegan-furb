@@ -32,7 +32,7 @@
 <h2 align="left">About me:</h2>
 
 <a align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=dracula" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=vision-friendly-dark" align="right" />
 </a>
 
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
@@ -147,16 +147,16 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 > Projects Exploring React Native basics and advanced features.
 <p align="center">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/edegan-furb/GuessNumberGameApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=GuessNumberGameApp&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=GuessNumberGameApp&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/edegan-furb/MealsApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=MealsApp&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=MealsApp&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/edegan-furb/ExpenseTrackerApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=ExpenseTrackerApp&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=ExpenseTrackerApp&theme=vision-friendly-dark" />
 </a>
 </p>
 
