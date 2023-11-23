@@ -32,7 +32,7 @@
 <h2 align="left">About me:</h2>
 
 <a align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=codeSTACKr" align="right" />
 </a>
 
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
@@ -145,16 +145,16 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 > Projects exploring react-native features.
 <p align="center">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/edegan-furb/GuessNumberGameApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=GuessNumberGameApp&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=GuessNumberGameApp&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/edegan-furb/MealsApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=MealsApp&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=MealsApp&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/edegan-furb/ExpenseTrackerApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=ExpenseTrackerApp&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=ExpenseTrackerApp&theme=codeSTACKr" />
 </a>
 </p>
 
