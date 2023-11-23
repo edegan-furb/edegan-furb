@@ -141,3 +141,17 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </table>
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
+
+<h2 align="left">React Native:</h2>
+
+> Projects Exploring React Native basics and advanced features.
+
+<a href="https://github.com/edegan-furb/CourseGoalApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
+</a>
+<a href="https://github.com/edegan-furb/GuessNumberGameApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=GuessNumberGameApp&theme=github_dark" />
+</a>
+
+
+
