@@ -145,12 +145,12 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <h2 align="left">React Native:</h2>
 
 > Projects Exploring React Native basics and advanced features.
-
+<p align="center">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
 </a>
-<a href="https://github.com/edegan-furb/CourseGoalApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
+<a href="https://github.com/edegan-furb/GuessNumberGameApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=GuessNumberGameApp&theme=github_dark" />
 </a>
 <a href="https://github.com/edegan-furb/MealsApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=MealsApp&theme=github_dark" />
@@ -158,6 +158,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <a href="https://github.com/edegan-furb/ExpenseTrackerApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=ExpenseTrackerApp&theme=github_dark" />
 </a>
+</p>
 
 
 
