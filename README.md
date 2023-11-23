@@ -37,7 +37,7 @@
 
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
 
-- 👨‍💻 I'm a developer who enjoys building web applications.
+- 👨‍💻 I'm a developer who enjoys building web and mobile applications.
 - 🎯 Currently, I'm focusing on React Native for mobile app development.
 - 📌 I'm comfortable working on both frontend and backend.
 - 📚 I like to take online courses on the latest technologies to improve my skills.
