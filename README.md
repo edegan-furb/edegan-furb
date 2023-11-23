@@ -142,7 +142,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 <h2 align="left">React Native:</h2>
 
-> Projects Exploring React Native basics and advanced features.
+> Projects Exploring React Native Features.
 <p align="center">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
