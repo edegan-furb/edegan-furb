@@ -49,7 +49,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 <h2 align="left">🛠️ Tech</h2>
 
->Tools, languages, and other things that I work with</summary
+>Tools, languages, and other things that I work with.
 
 <table align="center">
   <tr align="center">
@@ -149,10 +149,10 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 > Projects exploring react-native features.
 
-<details open>
+<details closed>
     <summary>📘 Projects </summary>
 </br>
-<p align="center">
+<p align="left">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
 </a>
