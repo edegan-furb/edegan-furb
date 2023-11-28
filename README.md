@@ -52,6 +52,8 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <details open>
 <summary><h2 align="left">🛠️ Tech</h2></summary>
 
+---
+
 > Tools, languages, and other things that I work with.
 
 <table align="center">
@@ -150,6 +152,8 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 <details open>
 <summary><h2 align="left">⚛️ React Native</h2></summary>
+
+---
 
 > Projects exploring react-native features.
 <p align="center">
