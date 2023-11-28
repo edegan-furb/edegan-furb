@@ -34,8 +34,6 @@
 </p>
 <details open>
 <summary><h2 align="left">👨‍💻 About me</h2></summary>
-    
-The rendered output of all three looks identical:
 
 ---
 
