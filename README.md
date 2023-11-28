@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h2 align="left">About me</h2>
+<h2 align="left">👨‍💻 About me</h2>
 
 <a align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
@@ -41,10 +41,10 @@
 
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
 
-- 👨‍💻 I'm a developer who enjoys building web and mobile applications.
-- 🎯 Currently, I'm focusing on React Native for mobile app development.
-- 📌 I'm comfortable working on both frontend and backend.
-- 📚 I like to take online courses on the latest technologies to improve my skills.
+- 🔹 I'm a developer who enjoys building web and mobile applications.
+- 🔸 Currently, I'm focusing on React Native for mobile app development.
+- 🔹 I'm comfortable working on both frontend and backend.
+- 🔸 I like to take online courses on the latest technologies to improve my skills.
 </details>
 
 <h2 align="left">🛠️ Tech</h2>
@@ -149,10 +149,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 > Projects exploring react-native features.
 
-<details closed>
-    <summary>📘 Projects </summary>
-</br>
-<p align="left">
+<p align="center">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
 </a>
@@ -172,6 +169,6 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=FavoritePlacesApp&theme=github_dark" />
 </a>  
 </p>
-</details>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
