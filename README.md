@@ -162,7 +162,10 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </a>
 <a href="https://github.com/edegan-furb/AuthApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=AuthApp&theme=github_dark" />
-</a>   
+</a> 
+<a href="https://github.com/edegan-furb/FavoritePlacesApp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=FavoritePlacesApp&theme=github_dark" />
+</a>  
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
