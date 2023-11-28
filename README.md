@@ -47,10 +47,9 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 - 📚 I like to take online courses on the latest technologies to improve my skills.
 </details>
 
-<<h2 align="left">🛠️ Tech</h2>
+<h2 align="left">🛠️ Tech</h2>
 
-<details open>
-<summary>Tools, languages, and other things that I work with</summary> 
+>Tools, languages, and other things that I work with</summary
 
 <table align="center">
   <tr align="center">
@@ -144,14 +143,14 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
     </td>
   </tr>
 </table>
-</details>
 
-<details open>
+
 <summary><h2 align="left">⚛️ React Native</h2></summary>
 
----
-
 > Projects exploring react-native features.
+
+<details open>
+    <summary>📘 Projects</summary>
 <p align="center">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
