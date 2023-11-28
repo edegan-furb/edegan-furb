@@ -32,8 +32,8 @@
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
 </p>
-
-<h2 align="left">About me:</h2>
+<details open>
+<summary><h2 align="left">👨‍💻 About me</h2></summary>
 
 <a align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
@@ -45,9 +45,10 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 - 🎯 Currently, I'm focusing on React Native for mobile app development.
 - 📌 I'm comfortable working on both frontend and backend.
 - 📚 I like to take online courses on the latest technologies to improve my skills.
+</details>
 
-
-<h2 align="left">Tech:</h2>
+<details open>
+<summary><h2 align="left">🛠️ Tech</h2></summary>
 
 > Tools, languages, and other things that I work with.
 
@@ -143,6 +144,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
     </td>
   </tr>
 </table>
+</details>
 
 <details closed>
 <summary><h2 align="left">⚛️ React Native</h2></summary>
