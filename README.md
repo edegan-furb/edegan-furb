@@ -32,10 +32,8 @@
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
   </a>
 </p>
-<details open>
-<summary><h2 align="left">👨‍💻 About me</h2></summary>
 
----
+<h2 align="left">About me</h2>
 
 <a align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
@@ -49,10 +47,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 - 📚 I like to take online courses on the latest technologies to improve my skills.
 </details>
 
-<details open>
 <summary><h2 align="left">🛠️ Tech</h2></summary>
-
----
 
 > Tools, languages, and other things that I work with.
 
