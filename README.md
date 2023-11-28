@@ -34,7 +34,11 @@
 </p>
 <details open>
 <summary><h2 align="left">👨‍💻 About me</h2></summary>
-_________________
+    
+The rendered output of all three looks identical:
+
+---
+
 <a align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
 </a>
