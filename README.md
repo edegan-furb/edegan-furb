@@ -47,9 +47,10 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 - 📚 I like to take online courses on the latest technologies to improve my skills.
 </details>
 
-<summary><h2 align="left">##🛠️ Tech</h2></summary>
+<<h2 align="left">🛠️ Tech</h2>
 
-> Tools, languages, and other things that I work with.
+<details open>
+<summary>Tools, languages, and other things that I work with</summary> 
 
 <table align="center">
   <tr align="center">
