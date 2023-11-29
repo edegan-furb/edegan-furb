@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
 <details open>
-    <summary>###hide</summary>
+    <summary>hide</summary>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+my+name+is+Eduardo.;Welcome+and+top+o’+the+morning+to+ya!" alt="Typing SVG" /></a>
@@ -47,7 +47,6 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 - 🔸 Currently, I'm focusing on React Native for mobile app development.
 - 🔹 I'm comfortable working on both frontend and backend.
 - 🔸 I like to take online courses on the latest technologies to improve my skills.
-</details>
 
 <h2 align="left">🛠️ Tech</h2>
 
