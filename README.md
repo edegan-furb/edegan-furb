@@ -1,5 +1,5 @@
 <details open>
-    <summary>click to `hide`</summary>
+    <summary>click to hide readme</summary>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
 
