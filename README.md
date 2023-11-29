@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
+<details open>
+    <summary>###hide</summary>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+my+name+is+Eduardo.;Welcome+and+top+o’+the+morning+to+ya!" alt="Typing SVG" /></a>
@@ -169,6 +171,6 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=FavoritePlacesApp&theme=github_dark" />
 </a>  
 </p>
-
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
