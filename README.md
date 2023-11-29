@@ -11,6 +11,10 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
 </p>
 
+<a>
+    <img scr="https://github-readme-stats.vercel.app/api?username=edegan-furb&theme=github_dark"
+</a>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=4cae4c" alt="">
   <img src="https://img.shields.io/badge/Age-23-31b0d5" />
@@ -37,7 +41,6 @@
 </p>
 
 <h2 align="left">👨‍💻 About me</h2>
-
 <a align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
 </a>
