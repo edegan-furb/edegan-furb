@@ -1,5 +1,5 @@
 <details open>
-    <summary>hide</summary>
+    <summary>click to `hide`</summary>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
 
