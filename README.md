@@ -148,7 +148,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <details closed>
     <summary><h2 align="left">⚛️ React Native</h2></summary>
 
-    ---
+    ***
     
 > Projects exploring react-native features.
 
