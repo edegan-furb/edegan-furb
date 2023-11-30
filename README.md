@@ -145,9 +145,9 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
   </tr>
 </table>
 
-
-<h2 align="left">⚛️ React Native</h2>
-
+<details closed>
+    <summary><h2 align="left">⚛️ React Native</h2></summary>
+    
 > Projects exploring react-native features.
 
 <p align="center">
@@ -170,7 +170,8 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=FavoritePlacesApp&theme=github_dark" />
 </a>  
 </p>
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
 
-</details>
+
