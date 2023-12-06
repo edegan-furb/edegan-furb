@@ -167,8 +167,11 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=AuthApp&theme=github_dark" />
 </a> 
 <a href="https://github.com/edegan-furb/FavoritePlacesApp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=FavoritePlacesApp&theme=github_dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=FavoritePlacesApp&theme=github_dark" />
 </a>  
+<a href="https://github.com/edegan-furb/PushNotificationsApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=PushNotificationsApp&theme=github_dark" />
+</a>
 </p>
 </details>
 
