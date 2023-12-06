@@ -151,7 +151,6 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 > Projects exploring react-native features.
 
 <p align="center">
-<p align="left">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
 </a>
@@ -173,7 +172,6 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <a href="https://github.com/edegan-furb/PushNotificationsApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=PushNotificationsApp&theme=github_dark" />
 </a>
-</p>
 </p>
 </details>
 
