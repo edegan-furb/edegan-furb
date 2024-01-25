@@ -145,11 +145,10 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
   </tr>
 </table>
 
-
 <details closed>
-    <summary><h2 align="left">⚛️ React Native</h2></summary>
-
-    > Projects exploring react-native features.
+    <summary><h2>⚛️ React Native</h2></summary>
+    
+> Projects exploring react-native features.
 
 <p align="left">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
@@ -177,5 +176,4 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
-
 
