@@ -176,6 +176,3 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
