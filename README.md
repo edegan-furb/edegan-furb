@@ -151,7 +151,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 > Projects exploring react-native features.
 
 <details closed>
-    <summary>Click to open projects</summary>
+    <summary>`React Native Repos`</summary>
 
 <p align="left">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
