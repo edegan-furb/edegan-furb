@@ -176,7 +176,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </details>
 
 <details closed>
-    <summary><h2> Entra2️⃣1️⃣</h2></summary>
+    <summary><h2>🚀 Entra21</h2></summary>
 
 > TaskSync project, developed during the Entra21 program.
 
