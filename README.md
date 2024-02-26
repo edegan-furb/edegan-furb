@@ -148,7 +148,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <details closed>
     <summary> 
             <h2>📱 Mobile Projects Showcase</h2>
-            <mark>> features a diverse array of mobile projects, including React Native and Android.</mark>
+            <blockquote> features a diverse array of mobile projects, including React Native and Android.</blockquote>
     </summary>
 
 
