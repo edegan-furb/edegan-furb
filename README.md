@@ -145,13 +145,15 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
   </tr>
 </table>
 
-* <details closed>
+<details closed>
     <summary> 
             <h2>📱 Mobile Projects Showcase</h2>
             <blockquote> Features a diverse array of mobile projects, including React Native and Android.</blockquote>
     </summary>
 
+<ul>
 
+<li>
 <details closed>
     <summary>
         <h2>⚛️ React Native</h2>
@@ -182,7 +184,9 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </a>
 </p>
 </details>
+</li>
 
+<li>
 <details closed>
     <summary>
         <h2>🚀 Entra21 - React Native</h2>
@@ -198,7 +202,9 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </a>
 </p>
 </details>
+</li>
 
+<li>
 <details closed>
     <summary>
         <h2>🤖 Android</h2>
@@ -211,7 +217,10 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </a>
 </p>
 </details>
+</li>
+</ul>
 </details>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
 
