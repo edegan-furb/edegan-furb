@@ -148,15 +148,16 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <details closed>
     <summary> 
             <h2>📱 Mobile Projects Showcase</h2>
-            <blockquote> features a diverse array of mobile projects, including React Native and Android.</blockquote>
+            <blockquote> Features a diverse array of mobile projects, including React Native and Android.</blockquote>
     </summary>
 
 
 <details closed>
-    <summary><h2>⚛️ React Native</h2></summary>
+    <summary>
+        <h2>⚛️ React Native</h2>
+          <blockquote> Projects exploring react-native features.</blockquote>
+    </summary>
     
-> Projects exploring react-native features.
-
 <p align="left">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
@@ -183,9 +184,10 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </details>
 
 <details closed>
-    <summary><h2>🚀 Entra21 - React Native</h2></summary>
-
-> TaskSync project, developed during the Entra21 program.
+    <summary>
+        <h2>🚀 Entra21 - React Native</h2>
+        <blockquote> TaskSync project, developed during the Entra21 program.</blockquote>
+    </summary>
 
 <p align="left">
 <a href="https://github.com/edegan-furb/Entra21-TCC">
@@ -198,9 +200,10 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </details>
 
 <details closed>
-    <summary><h2>🤖 Android</h2></summary>
-
- > Projects exploring android features.
+    <summary>
+        <h2>🤖 Android</h2>
+        <blockquote> Projects exploring android features.</blockquote>
+    </summary>
 
 <p align="left">
 <a href="https://github.com/edegan-furb/Android-Fundamentals">
