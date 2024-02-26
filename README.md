@@ -187,6 +187,19 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <a href="https://github.com/edegan-furb/Entra21-Mockup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=Entra21-Mockup&theme=github_dark" />
 </a>
+</p>
+</details>
+
+<details>
+    <summary><h2>🤖 Android</h2></summary>
+
+ > Projects exploring react-native features.
+
+<p align="left">
+<a href="https://github.com/edegan-furb/Android-Fundamentals">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=Android-Fundamentals&theme=github_dark" />
+</a>
+</p>
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
