@@ -178,7 +178,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=PushNotificationsApp&theme=github_dark" />
 </a>
 </p>
-</details><blockquote>
+</details>
 
 <details closed>
     <summary><h2>🚀 Entra21</h2></summary>
@@ -207,6 +207,6 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </p>
 </details>
 
-</details>
+</details><blockquote>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
