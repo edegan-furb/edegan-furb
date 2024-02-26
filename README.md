@@ -146,6 +146,11 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </table>
 
 <details closed>
+    <summary><h2>📱 Mobile Projects Showcase</h2></summary>
+
+    > features a diverse array of mobile projects, including React Native and Android.
+
+<details closed>
     <summary><h2>⚛️ React Native</h2></summary>
     
 > Projects exploring react-native features.
@@ -190,7 +195,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </p>
 </details>
 
-<details>
+<details closed>
     <summary><h2>🤖 Android</h2></summary>
 
  > Projects exploring android features.
@@ -200,6 +205,8 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=Android-Fundamentals&theme=github_dark" />
 </a>
 </p>
+</details>
+
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
