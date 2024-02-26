@@ -193,7 +193,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <details>
     <summary><h2>🤖 Android</h2></summary>
 
- > Projects exploring react-native features.
+ > Projects exploring android features.
 
 <p align="left">
 <a href="https://github.com/edegan-furb/Android-Fundamentals">
