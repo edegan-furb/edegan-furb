@@ -212,6 +212,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </p>
 </details>
 </details>
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
+
+</details>
