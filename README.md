@@ -148,14 +148,12 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <details closed>
     <summary><h2>📱 Mobile Projects Showcase</h2></summary>
 
-    > features a diverse array of mobile projects, including React Native and Android.
+> features a diverse array of mobile projects, including React Native and Android.
 
 <details closed>
     <summary><h2>⚛️ React Native</h2></summary>
     
 > Projects exploring react-native features.
-
-
 
 <p align="left">
 <a href="https://github.com/edegan-furb/CourseGoalApp">
