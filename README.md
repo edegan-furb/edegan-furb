@@ -87,7 +87,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
     </td>
      <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
