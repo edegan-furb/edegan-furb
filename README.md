@@ -153,7 +153,6 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 <ul>
 
-<li>
 <details closed>
     <summary>
         <h2>⚛️ React Native</h2>
@@ -184,9 +183,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </a>
 </p>
 </details>
-</li>
 
-<li>
 <details closed>
     <summary>
         <h2>🚀 Entra21 - React Native</h2>
@@ -202,9 +199,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </a>
 </p>
 </details>
-</li>
 
-<li>
 <details closed>
     <summary>
         <h2>🤖 Android</h2>
@@ -217,7 +212,6 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </a>
 </p>
 </details>
-</li>
 </ul>
 </details>
 
