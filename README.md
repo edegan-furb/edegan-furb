@@ -148,7 +148,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <details closed>
     <summary> 
             <h2>📱 Mobile Projects Showcase</h2>
-            <blockquote> Features a diverse array of mobile projects, including React Native and Android.</blockquote>
+            <blockquote> Features a diverse array of mobile projects. </blockquote>
     </summary>
 
 <ul>
@@ -196,19 +196,6 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 </a>
 <a href="https://github.com/edegan-furb/Entra21-Mockup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=Entra21-Mockup&theme=github_dark" />
-</a>
-</p>
-</details>
-
-<details closed>
-    <summary>
-        <h2>🤖 Android</h2>
-        <blockquote> Projects exploring android features.</blockquote>
-    </summary>
-
-<p align="left">
-<a href="https://github.com/edegan-furb/Android-Fundamentals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=Android-Fundamentals&theme=github_dark" />
 </a>
 </p>
 </details>
