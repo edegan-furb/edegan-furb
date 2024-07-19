@@ -94,7 +94,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="microsoftsqlserver" />
       </a>
-      <br>microsoftsqlserver
+      <br>SQLServer
     </td>
   </tr>
   <tr align="center">
