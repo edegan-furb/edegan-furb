@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="150"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFic3NwMDkwZ2I5cmUwNjFtcTRxZXZqcjhqczIwNWJhMnV5bTRoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQkKavfX6TER2/giphy.gif" width="150"/>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
       </a>
-      <br>Node
+      <br>Nodejs
     </td>
     <td align="center" width="96">
       <a>
