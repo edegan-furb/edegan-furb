@@ -60,7 +60,13 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
       </a>
       <br>Java
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="Csharp" />
+      </a>
+      <br>Csharp
+    </td>
+    <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
@@ -68,16 +74,9 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-     <td align="center" width="96">
-      <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
       </a>
       <br>Node
-    </td>
     </td>
     <td align="center" width="96">
       <a>
@@ -85,58 +84,57 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
       </a>
       <br>Spring
     </td>
-     <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-  </tr>
-  <tr align="center">
-     <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-  </td>
-     <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-   <td align="center" width="96">
-      <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
-      </a>
-      <br>Typescript
-    </td>
-  <td align="center" width="96">
+    <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="firebase" />
       </a>
       <br>Firebase
     </td>
-  <td align="center" width="96">
+    <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="microsoftsqlserver" />
       </a>
-      <br>Mysql
+      <br>microsoftsqlserver
     </td>
-  <td align="center" width="96">
+  </tr>
+  <tr align="center">
+    <td align="center" width="96">
       <a>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
       </a>
-      <br>Mongodb
+      <br>HTML
     </td>
-  <td align="center" width="96">
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
       </a>
