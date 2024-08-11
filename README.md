@@ -5,10 +5,8 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+my+name+is+Eduardo.;Welcome+and+top+o’+the+morning+to+ya!" alt="Typing SVG" /></a>
-</p>
 
-<p align="center">
-    <img src="https://github.com/edegan-furb/ConwayGameOfLife/blob/main/gif.gif" width="400"/>
+<img src="https://github.com/edegan-furb/ConwayGameOfLife/blob/main/gif.gif" width="400"/>
 </p>
 
 <p align="center">
