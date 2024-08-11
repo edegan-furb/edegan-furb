@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5pYTJ1MXAwdm5lMnc5eGM4OXdyZnBzdXV0eGZ6MmEwaDNyanY4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5XMAnQRqzeprZF6GnW/giphy.gif" width="200"/>
+    <img src="https://github.com/edegan-furb/ConwayGameOfLife/blob/main/gif.gif" width="200"/>
 </p>
 
 <p align="center">
