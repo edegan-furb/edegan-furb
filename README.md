@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/edegan-furb/ExpenseTrackerApp">
+    <a href="https://github.com/edegan-furb/ConwayGameOfLife">
     <img src="https://github.com/edegan-furb/ConwayGameOfLife/blob/main/gif.gif" width="300"/>
     </a>
 </p>
