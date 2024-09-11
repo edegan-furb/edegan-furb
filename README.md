@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="right" />
 </a>
 
-<a align="left">
+<a align="right">
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
 
 - 🔹 I'm a developer who enjoys building `web` and `mobile` applications.
