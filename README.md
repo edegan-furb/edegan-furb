@@ -50,9 +50,8 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <h2 align="left">📈 Stats</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" style="margin-bottom: 40px;"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=edegan-furb&theme=github_dark&hide=issues" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="left"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=edegan-furb&theme=github_dark&hide=issues" align="right"/>
 </div>
 
 <h2 align="left">🛠️ Tech</h2>
