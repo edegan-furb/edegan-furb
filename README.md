@@ -40,18 +40,19 @@
 
 <h2 align="left">👨‍💻 About me</h2>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api?username=edegan-furb&theme=github_dark&hide=issues" align="center" />
-</div>
-
-
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
 
 - 🔹 I'm a developer who enjoys building `web` and `mobile` applications.
 - 🔸 Currently, I'm focusing on `robotic process automation`.
 - 🔹 I'm comfortable working on both `frontend` and `backend`.
 - 🔸 I like to take online courses on the latest technologies to improve my skills.
+
+<h2 align="left">📈 Stats</h2>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=edegan-furb&theme=github_dark&hide=issues" align="center" />
+</div>
 
 <h2 align="left">🛠️ Tech</h2>
 
