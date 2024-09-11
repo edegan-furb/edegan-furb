@@ -42,7 +42,7 @@
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=compact&theme=github_dark" align="center" />
-    <img src="https://github-readme-stats.vercel.app/api?username=edegan-furb&hide=contribs,prs" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=edegan-furb&theme=github_dark" align="center" />
 </div>
 
 
