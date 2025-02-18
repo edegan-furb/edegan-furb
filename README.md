@@ -142,7 +142,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
   </tr>
 </table>
 
-<details open>
+<details closed>
     <summary> 
             <h2>📱 Mobile Projects Showcase</h2>
             <blockquote> Features a diverse array of mobile projects. </blockquote>
