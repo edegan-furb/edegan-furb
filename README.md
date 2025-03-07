@@ -49,7 +49,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 <h2 align="left">🛠️ Tech</h2>
 
->Tools, languages, and other things that I work with.
+>Tools, languages, and other things that I have used so far.
 
 <table align="center">
   <tr align="center">
@@ -63,7 +63,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="Csharp" />
       </a>
-      <br>Csharp
+      <br>C#
     </td>
     <td align="center" width="96">
       <a>
@@ -140,6 +140,25 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
       <br>Git
     </td>
   </tr>
+     <tr align="center">
+    <td align="center" width="96">
+      <a>
+        <img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" width="48" height="48" alt="Power Automate" />
+      </a>
+      <br>Power
+    </td>
+     <td align="center" width="96">
+      <a>
+        <img src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png" width="48" height="48" alt="Blue Prism" />
+      </a>
+      <br>BluePrism
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://img.icons8.com/?size=100&id=HhCUhcFcSjU8&format=png&color=000000" width="48" height="48" alt="Uipath" />
+      </a>
+      <br>Uipath
+    </td>
 </table>
 
 <details closed>
