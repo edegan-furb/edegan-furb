@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=4cae4c" alt="">
-  <img src="https://img.shields.io/badge/Age-23-31b0d5" />
+  <img src="https://img.shields.io/badge/Age-24-31b0d5" />
   <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-e69500" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-c9302c" />
 </p>
