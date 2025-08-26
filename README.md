@@ -33,9 +33,9 @@
 
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
 
-- 🔹 I'm a developer who enjoys building `web` and `mobile` applications.
-- 🔸 Currently, I'm focusing on `robotic process automation`.
-- 🔹 I'm comfortable working on both `frontend` and `backend`.
+- 🔹 I'm a developer who enjoys a bit of everything.
+- 🔸 Currently, I'm focusing on robotic process automation.
+- 🔹 I’m comfortable working across different areas.
 - 🔸 I like to take online courses on the latest technologies to improve my skills.
 
 <h2 align="left">🛠️ Tech</h2>
@@ -68,9 +68,9 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
   </tr>
 </table>
 
-<details closed>
+<details open>
     <summary> 
-            <h2>📱 Mobile Projects Showcase</h2>
+            <h2>📱 Entra21 Program – Project Showcase</h2>
             <blockquote> Features a diverse array of mobile projects. </blockquote>
     </summary>
 
@@ -78,7 +78,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 <details closed>
     <summary>
-        <h2>⚛️ React Native</h2>
+        <h2>⚛️ React Native - Learning </h2>
           <blockquote> Projects exploring react-native features.</blockquote>
     </summary>
     
@@ -109,7 +109,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 <details closed>
     <summary>
-        <h2>🚀 Entra21 - React Native</h2>
+        <h2>🚀 React Native - Final Project</h2>
         <blockquote> TaskSync project, developed during the Entra21 program.</blockquote>
     </summary>
 
