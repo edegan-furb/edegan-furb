@@ -44,27 +44,27 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 
 <table align="center">
   <tr align="center">
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="32" height="32" alt="Java" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="32" height="32" alt="Csharp" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="32" height="32" alt="Python" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="32" height="32" alt="Spring" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="32" height="32" alt="Firebase" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="32" height="32" alt="SQLServer" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="32" height="32" alt="Git" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" alt="Java" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="Csharp" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50" height="50" alt="Spring" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQLServer" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git" /></td>
     
   </tr>
   <tr align="center">
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="32" height="32" alt="HTML" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="32" height="32" alt="CSS" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="32" height="32" alt="Javascript" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="32" height="32" alt="Typescript" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="32" height="32" alt="React" /></td>
-    <td align="center" width="64"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind" /></td>
-    <td align="center" width="64"><img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" width="32" height="32" alt="Power Automate" /></td>
-    <td align="center" width="64"><img src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png" width="32" height="32" alt="Blue Prism" /></td>
-    <td align="center" width="64"><img src="https://img.icons8.com/?size=100&id=HhCUhcFcSjU8&format=png&color=000000" width="32" height="32" alt="Uipath" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="Javascript" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="Typescript" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React" /></td>
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind" /></td>
+    <td align="center" width="100"><img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" width="50" height="50" alt="Power Automate" /></td>
+    <td align="center" width="100"><img src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png" width="50" height="50" alt="Blue Prism" /></td>
+    <td align="center" width="100"><img src="https://img.icons8.com/?size=100&id=HhCUhcFcSjU8&format=png&color=000000" width="50" height="50" alt="Uipath" /></td>
   </tr>
 </table>
 
