@@ -1,35 +1,16 @@
 <details open>
     <summary>hide/expand</summary>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=header" />
+<br>
 
-<p align="center">
-    <a href="https://github.com/edegan-furb/ConwayGameOfLife">
-    <img src="https://github.com/edegan-furb/ConwayGameOfLife/blob/main/gif.gif" width="300"/>
-    </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edegan-furb&style=circle&color=4cae4c" alt="">
-  <img src="https://img.shields.io/badge/Age-24-31b0d5" />
-  <img src="https://img.shields.io/badge/Lives-Blumenau%20%E2%80%93%20SC-e69500" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Portuguese-c9302c" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-rebelo-degan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://www.instagram.com/edugao/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Insta Badge">
-  </a>
-   <a href="https://twitter.com/EduDegan">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge">
-  </a>
-</p>
+<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Edegan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 
-<h2 align="left">👨‍💻 About me</h2>
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdlcnNxemN6ajJtMTllcDMwMWZ0ZWo3eXd2b2lzdWljdXcwcnhrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"/>
 
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
 
@@ -38,94 +19,75 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 - 🔹 I’m comfortable working across different areas.
 - 🔸 I like to take online courses on the latest technologies to improve my skills.
 
-<h2 align="left">🛠️ Tech</h2>
+  <br>
+
+  <!-- Social Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardo-rebelo-degan/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/edugao"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="https://x.com/EduDegan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+    
+ <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
+</div>
+
+<br>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 >Tools, languages, and other things that I have used so far.
 
+<img align="right" width=200px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg5ZXpjOXYxMWM3ZHdjem56M25mbThxaW13dms3YjVxN29iN2pjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"/>
+
+
+![Java](https://img.shields.io/badge/java-%235382a1.svg?style=for-the-badge&logo=coffeescript&logoColor=f89820)&nbsp;
+![Csharp](https://img.shields.io/badge/csharp-%239179E4.svg?style=for-the-badge&logo=sharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-%234584b6?style=for-the-badge&logo=python&logoColor=ffde57)&nbsp;
+
+![Node](https://img.shields.io/badge/node-%2368A063?style=for-the-badge&logo=node.js&logoColor=black)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%233b3b3b?style=for-the-badge&logo=spring&logoColor=6DB33F)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=FFC400)&nbsp;
+![Mongodb](https://img.shields.io/badge/mongodb-%23001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)&nbsp;
+![SQLServer](https://img.shields.io/badge/sql%20server-%23666666?style=for-the-badge&logo=helix&logoColor=CC2927)&nbsp;
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Javascript](https://img.shields.io/badge/javascript-%23D1C000.svg?style=for-the-badge&logo=Javascript&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)&nbsp;
+![tailwindcss](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=03045E)&nbsp;
+
+![uipath](https://img.shields.io/badge/uipath-%23FA4616.svg?style=for-the-badge&logo=uipath&logoColor=black)&nbsp;
+![powerautomate](https://img.shields.io/badge/power%20automate-%231351C8.svg?style=for-the-badge&logo=powers&logoColor=4D9FFF)&nbsp;
+![blueprism](https://img.shields.io/badge/blueprism-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+
+<br>
+
+<!-- Github Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
 <table align="center">
-  <tr align="center">
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50" alt="Java" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="Csharp" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50" height="50" alt="Spring" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQLServer" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git" /></td>
-    
-  </tr>
-  <tr align="center">
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="Javascript" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="Typescript" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React" /></td>
-    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind" /></td>
-    <td align="center" width="100"><img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" width="50" height="50" alt="Power Automate" /></td>
-    <td align="center" width="100"><img src="https://user-images.githubusercontent.com/27078533/79024258-b1f7e680-7b82-11ea-8775-11eb1ee0871c.png" width="50" height="50" alt="Blue Prism" /></td>
-    <td align="center" width="100"><img src="https://img.icons8.com/?size=100&id=HhCUhcFcSjU8&format=png&color=000000" width="50" height="50" alt="Uipath" /></td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=edegan-furb&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edegan-furb&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edegan-furb&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
 </table>
-
-<details open>
-    <summary> 
-            <h2>📱 Entra21 Program – Project Showcase</h2>
-            <blockquote> Features a diverse array of mobile projects. </blockquote>
-    </summary>
-
-<ul>
-
-<details closed>
-    <summary>
-        <h2>⚛️ React Native - Learning </h2>
-          <blockquote> Projects exploring react-native features.</blockquote>
-    </summary>
-    
-<p align="left">
-<a href="https://github.com/edegan-furb/CourseGoalApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=CourseGoalApp&theme=github_dark" />
-</a>
-<a href="https://github.com/edegan-furb/GuessNumberGameApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=GuessNumberGameApp&theme=github_dark" />
-</a>
-<a href="https://github.com/edegan-furb/MealsApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=MealsApp&theme=github_dark" />
-</a>
-<a href="https://github.com/edegan-furb/ExpenseTrackerApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=ExpenseTrackerApp&theme=github_dark" />
-</a>
-<a href="https://github.com/edegan-furb/AuthApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=AuthApp&theme=github_dark" />
-</a> 
-<a href="https://github.com/edegan-furb/FavoritePlacesApp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=FavoritePlacesApp&theme=github_dark" />
-</a>  
-<a href="https://github.com/edegan-furb/PushNotificationsApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=PushNotificationsApp&theme=github_dark" />
-</a>
 </p>
-</details>
-
-<details closed>
-    <summary>
-        <h2>🚀 React Native - Final Project</h2>
-        <blockquote> TaskSync project, developed during the Entra21 program.</blockquote>
-    </summary>
-
-<p align="left">
-<a href="https://github.com/edegan-furb/Entra21-TCC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=Entra21-TCC&theme=github_dark" />
-</a>
-<a href="https://github.com/edegan-furb/Entra21-Mockup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edegan-furb&repo=Entra21-Mockup&theme=github_dark" />
-</a>
-</p>
-</details>
-</ul>
-</details>
+<br>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&width=100%&section=footer" />
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 </details>
