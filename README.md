@@ -1,4 +1,4 @@
-<details open>
+g<details open>
     <summary>hide/expand</summary>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -78,7 +78,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=edegan-furb&theme=nightowl&hide_border=false" alt="streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=edegan-furb&theme=nightowl&hide_border=false&langs_count=10&exclude_repo=SocialThingy"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=donut-vertical&theme=nightowl&hide_border=false"/>
 </td>
 </tr>
 </table>
