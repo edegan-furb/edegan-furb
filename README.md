@@ -59,7 +59,7 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Javascript](https://img.shields.io/badge/javascript-%23D1C000.svg?style=for-the-badge&logo=Javascript&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)&nbsp;
-![tailwindcss](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=03045E)&nbsp;
+![tailwindcss](https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=03045E)&nbsp;
 
 ![uipath](https://img.shields.io/badge/uipath-%23FA4616.svg?style=for-the-badge&logo=uipath&logoColor=black)&nbsp;
 ![powerautomate](https://img.shields.io/badge/power%20automate-%231351C8.svg?style=for-the-badge&logo=powers&logoColor=4D9FFF)&nbsp;
