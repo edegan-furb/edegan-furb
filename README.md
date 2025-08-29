@@ -14,10 +14,10 @@
 
 I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Brazil. 
 
-- 🔹 I'm a developer who enjoys a bit of everything.
-- 🔸 Currently, I'm focusing on data science 
-- 🔹 I’m comfortable working across different areas.
-- 🔸 I like to take online courses on the latest technologies to improve my skills.
+🔹 I'm a developer who enjoys a bit of everything. <br>
+🔸 Currently, I'm focusing on data science. <br>
+🔹 I’m comfortable working across different areas. <br>
+🔸 I like to take online courses on the latest technologies to improve my skills.
 
   <br>
 
