@@ -75,10 +75,9 @@ I am Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=edegan-furb&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edegan-furb&theme=nightowl&hide_border=false" alt="streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edegan-furb&layout=donut-vertical&theme=nightowl&hide_border=false"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edegan-furb&theme=nightowl&hide_border=false" alt="streak" />
 </td>
 </tr>
 </table>
